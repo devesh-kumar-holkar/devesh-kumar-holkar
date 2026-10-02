@@ -1,6 +1,6 @@
 # Hi, I'm Devesh Kumar 👋
 
-### Data Analyst | SQL • Power BI • Python • Excel
+### Aspiring Data Analyst | SQL • Power BI • Python • Excel
 
 I'm an Electrical Engineering student at **MANIT Bhopal** with a growing focus on **Data Analytics and Business Intelligence**.
 
